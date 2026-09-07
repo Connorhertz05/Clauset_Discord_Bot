@@ -3,7 +3,9 @@
 
 **[Clauset]** is a powerful, all-in-one Discord bot designed to keep your server safe while keeping your community entertained. Built with a robust suite of **advanced moderation tools** and a wide array of **fun, interactive entertainment commands**, it provides everything your server needs to thrive.
 
-[✨ Invite the Bot to Your Server]<a href="https://discord.com/oauth2/authorize?client_id=1545550575553482763&permissions=0&integration_type=0&scope=bot+applications.commands">Invite Clauset</a>
+[✨ Invite the Bot to Your Server]
+
+<a href="https://discord.com/oauth2/authorize?client_id=1545550575553482763&permissions=0&integration_type=0&scope=bot+applications.commands">Invite Clauset</a>
 
 ---
 

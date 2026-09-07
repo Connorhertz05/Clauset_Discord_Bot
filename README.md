@@ -4,6 +4,9 @@
 **Clauset** is a powerful, all-in-one Discord bot designed to keep your server safe while keeping your community entertained. Built with a robust suite of **advanced moderation tools** and a wide array of **fun, interactive entertainment commands**, it provides everything your server needs to thrive.
 
 **Images**
+
+
+
 <img width="857" height="609" alt="image" src="https://github.com/user-attachments/assets/63ff6766-b72f-4eef-8953-ab315b36f7ee" />
 <img width="791" height="101" alt="image" src="https://github.com/user-attachments/assets/e164127c-767b-408c-80a4-89f94406a3ef" />
 <img width="551" height="354" alt="image" src="https://github.com/user-attachments/assets/81f8b846-6465-4654-b258-1e870ad92129" />

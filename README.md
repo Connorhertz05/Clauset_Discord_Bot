@@ -40,7 +40,7 @@ Give your community members a reason to stay active and have fun together.
 | `/play` | Entertainment | Enables to bot to join voicechat and play tunes of your liking! |
 | `/userinfo` | Information | Allows you to view the account creation and etc of a user. |
 | `/8bit` | Entertainment | Sends a random 8-bit style image. |
-| `8ball` | Entertainment | Ask the magic 8-ball a question. |
+| `/8ball` | Entertainment | Ask the magic 8-ball a question. |
 
 *These are not all of the commands that can be used*
 *--------------------------------------------------*

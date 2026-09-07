@@ -54,8 +54,6 @@ Give your community members a reason to stay active and have fun together.
 | `/8bit` | Entertainment | Sends a random 8-bit style image. |
 | `/8ball` | Entertainment | Ask the magic 8-ball a question. |
 
-*These are not all of the commands that can be used*
-*--------------------------------------------------*
 *Type `/commands` in your server for a full, interactive list of all available commands.* 
 
 ---

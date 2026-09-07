@@ -13,6 +13,8 @@
 <img width="1841" height="993" alt="image" src="https://github.com/user-attachments/assets/82bbe470-4b09-45a9-8fd5-ea0d9632e408" />
 <img width="1284" height="310" alt="image" src="https://github.com/user-attachments/assets/7d379512-360a-4a4b-bb9d-0235eb25707c" />
 
+
+
 [✨ Invite the Bot to Your Server]
 
 <a href="https://discord.com/oauth2/authorize?client_id=1545550575553482763&permissions=0&integration_type=0&scope=bot+applications.commands">Invite Clauset</a>

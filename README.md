@@ -3,6 +3,17 @@
 
 **[Clauset]** is a powerful, all-in-one Discord bot designed to keep your server safe while keeping your community entertained. Built with a robust suite of **advanced moderation tools** and a wide array of **fun, interactive entertainment commands**, it provides everything your server needs to thrive.
 
+**Images**
+<img width="857" height="609" alt="image" src="https://github.com/user-attachments/assets/63ff6766-b72f-4eef-8953-ab315b36f7ee" />
+<img width="791" height="101" alt="image" src="https://github.com/user-attachments/assets/e164127c-767b-408c-80a4-89f94406a3ef" />
+<img width="551" height="354" alt="image" src="https://github.com/user-attachments/assets/81f8b846-6465-4654-b258-1e870ad92129" />
+<img width="942" height="357" alt="image" src="https://github.com/user-attachments/assets/5ccbe187-28a2-4324-8045-709fdaa8e096" />
+<img width="791" height="100" alt="image" src="https://github.com/user-attachments/assets/592cc93e-6a5c-4c39-9c47-a1073fb2eaed" />
+<img width="1266" height="141" alt="image" src="https://github.com/user-attachments/assets/e54e4c7d-03e6-4115-bee5-3fe3b05def5e" />
+<img width="1841" height="993" alt="image" src="https://github.com/user-attachments/assets/82bbe470-4b09-45a9-8fd5-ea0d9632e408" />
+
+
+
 [✨ Invite the Bot to Your Server]
 
 <a href="https://discord.com/oauth2/authorize?client_id=1545550575553482763&permissions=0&integration_type=0&scope=bot+applications.commands">Invite Clauset</a>

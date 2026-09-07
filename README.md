@@ -26,49 +26,6 @@ Give your community members a reason to stay active and have fun together.
 
 ---
 
-## 🛠️ Getting Started
-
-### Prerequisites
-Before hosting the bot yourself, ensure you have the following installed:
-* [Node.js](https://nodejs.org) (v16.x or higher) OR [Python](https://python.org) (3.9 or higher) *[Choose the one your bot uses]*
-* A Discord Developer Account with a registered Bot Token.
-
-### Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com
-   cd YOUR_REPO_NAME
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   # For Node.js projects:
-   npm install
-   
-   # OR for Python projects:
-   pip install -r requirements.txt
-   ```
-
-3. **Configure Environment Variables:**
-   Create a `.env` file in the root directory and add your secret credentials:
-   ```env
-   DISCORD_TOKEN=your_bot_token_here
-   CLIENT_ID=your_client_id_here
-   MONGO_URI=your_database_url_here (if applicable)
-   PREFIX=!
-   ```
-
-4. **Launch the bot:**
-   ```bash
-   # For Node.js:
-   node index.js
-   
-   # For Python:
-   python bot.py
-   ```
-
----
 
 ## 🎮 Command Overview
 

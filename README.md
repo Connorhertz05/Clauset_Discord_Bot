@@ -33,7 +33,7 @@ Keep your community safe, clean, and organized with lightning-fast moderation ac
 ### 🎉 Engagement & Entertainment
 Give your community members a reason to stay active and have fun together.
 * **Music Processing:** Allows you to make the bot join voicechat and play music for you and your friends.
-* **Jokingly can Insult other members** Pull the freshest memes straight from Reddit or generate custom text-on-image templates.
+* **Jokingly can Insult other members** A command that allows you to insult another user coming from a randomized list.
 * **Interactive Triggers:** Image processing, Insulting Jokes, and Jumpscare Gifs.
 
 ---
